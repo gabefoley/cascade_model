@@ -75,4 +75,4 @@ It is priced from a direct reference to this quantity
 Total cost of Alginate_cascade is 231.0
 ```
 
-Please read (the documentation)[http://gabefoley.github.io/cascade_model] for more examples and use cases.
+Please read [the documentation](http://gabefoley.github.io/cascade_model) for more examples and use cases.
