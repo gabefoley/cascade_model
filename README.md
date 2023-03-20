@@ -23,14 +23,16 @@ Change into the cascade_model directory
 cd cascade_model
 ```
 
-Run the program
+Try the example data -
+
+```
+python cascade_model.py --costs test/files/test_cascade_costs.csv --configs test/files/test_cascade_configurations.csv
+```
+
+Run the program with your own data
 
 ```
 python cascade_model.py --costs <path_to_costs.csv> --configs <path_to_configs.csv>
 ```
 
-Try the example data -
 
-```
-python cascade_model.py --costs test/files/test_cascade_costs.csv --configs test/files/test_cascade_configuration.csv
-```
