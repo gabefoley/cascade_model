@@ -6,8 +6,7 @@ This is a basic implementation of a tool that lets us define a set of components
 
 ## Documentation
 
-Read the full documentation here - 
-http://gabefoley.github.io/cascade_model
+[Read the full documentation here](http://gabefoley.github.io/cascade_model)
 
 
 ## Quickstart
