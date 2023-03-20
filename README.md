@@ -18,6 +18,11 @@ Clone the repository
 git clone https://github.com/gabefoley/cascade_model
 ```
 
+Change into the cascade_model directory
+```
+cd cascade_model
+```
+
 Run the program
 
 ```
