@@ -35,4 +35,44 @@ Run the program with your own data
 python cascade_model.py --costs <path_to_costs.csv> --configs <path_to_configs.csv>
 ```
 
+## Output
 
+The output from running the example data should be -
+
+```
+Loading configurations
+
+Printing details of Small_cascade
+
+Component is dhad and it costs $12.0 at a quantity of 10.0
+It is priced from a direct reference to this quantity
+Component is kari and it costs $4.0 at a quantity of 10.0
+It is priced from a direct reference to this quantity
+Component is als and it costs $5.0 at a quantity of 10.0
+It is priced from a direct reference to this quantity
+Component is beaker and it costs $100.0 at a quantity of 20.0
+It is priced from a direct reference to this quantity
+Component is substrate and it costs $20.0 at a quantity of 30.0
+It is priced from a direct reference to this quantity
+
+Total cost of Small_cascade is 141.0
+
+Printing details of Alginate_cascade
+
+Component is dhad and it costs $12.0 at a quantity of 10.0
+It is priced from a direct reference to this quantity
+Component is kari and it costs $4.0 at a quantity of 10.0
+It is priced from a direct reference to this quantity
+Component is als and it costs $5.0 at a quantity of 10.0
+It is priced from a direct reference to this quantity
+Component is beaker and it costs $100.0 at a quantity of 20.0
+It is priced from a direct reference to this quantity
+Component is substrate and it costs $20.0 at a quantity of 30.0
+It is priced from a direct reference to this quantity
+Component is alginate beads and it costs $90.0 at a quantity of 10.0
+It is priced from a direct reference to this quantity
+
+Total cost of Alginate_cascade is 231.0
+```
+
+Please read (the documentation)[http://gabefoley.github.io/cascade_model] for more examples and use cases.
