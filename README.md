@@ -4,6 +4,12 @@
 
 This is a basic implementation of a tool that lets us define a set of components (enzymes, reagents, flasks) and their cost at specific quantities.
 
+## Documentation
+
+Read the full documentation here - 
+http://gabefoley.github.io/cascade_model
+
+
 ## Quickstart
 
 Clone the repository
@@ -23,7 +29,3 @@ Try the example data -
 ```
 python cascade_model.py --costs test/files/test_cascade_costs.csv --configs test/files/test_cascade_configuration.csv
 ```
-
-
-Read the full documentation here - 
-http://gabefoley.github.io/cascade_model
